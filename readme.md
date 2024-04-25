@@ -4,6 +4,6 @@
 
 Curiosity, and learning is what I value the most but not if it disturbs someone and invades their privacy.
 
-If I understand how a system works, I can help protect it. In the situations of attack or breach, I can assist the team in finding the source of the problem. With this goal in mind I want to keep learning and enter in this fascinating world of cybersecurity.
+If I understand how a system works, I can help protect it or in the situations of attack or breach, I can be of assistance (in one of the cybersecurity career roles that I have yet to decide but choice is just an illusion as it is said I know what I want) in finding the source of the problem. With this goal in mind I want to keep learning and enter in this fascinating world of cybersecurity.
 
 
