@@ -17,3 +17,9 @@ Activity:
 3. Filter with grep
 
    <img width="1345" alt="Filter with grep" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/f372fb61-ebbc-4aa3-b049-52b52182e713">
+
+---
+
+4. Manage files with Linux commands
+
+   <img width="1345" alt="Manage files with Linux commands" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/b7961a59-0ec7-4616-9ca4-440d41c6ba77">
