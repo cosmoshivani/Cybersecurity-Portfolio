@@ -23,3 +23,10 @@ Activity:
 4. Manage files with Linux commands
 
    <img width="1345" alt="Manage files with Linux commands" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/b7961a59-0ec7-4616-9ca4-440d41c6ba77">
+
+---
+
+5. Manage authorization
+
+   <img width="1345" alt="Manage authorization" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/f95073d7-4f5d-49e4-aa80-70cbdb388f8f">
+
