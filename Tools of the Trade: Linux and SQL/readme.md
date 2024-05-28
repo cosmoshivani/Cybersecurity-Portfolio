@@ -38,4 +38,9 @@ Activity:
 
 ---
 
+7. Get help in the command line
+
+   <img width="1340" alt="Get help in the command line" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/6774fa54-d70c-4ee6-82f1-133cbb6b0abe">
+
+   ---
 
