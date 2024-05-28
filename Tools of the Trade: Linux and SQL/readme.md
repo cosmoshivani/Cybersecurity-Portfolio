@@ -43,4 +43,8 @@ Activity:
    <img width="1340" alt="Get help in the command line" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/6774fa54-d70c-4ee6-82f1-133cbb6b0abe">
 
    ---
+8. Apply more filters in SQL
 
+   <img width="1340" alt="Apply more filters in SQL" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/f982f687-24e8-4873-a901-758e9d5c5fd1">
+
+   
