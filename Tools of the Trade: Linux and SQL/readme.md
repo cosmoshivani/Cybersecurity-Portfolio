@@ -30,3 +30,12 @@ Activity:
 
    <img width="1345" alt="Manage authorization" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/f95073d7-4f5d-49e4-aa80-70cbdb388f8f">
 
+---
+
+6. Add and manage users with Linux commands
+
+<img width="1340" alt="Add and manage users with Linux commands" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/ed4b8cd6-6ea2-4e02-8c43-958937cb2910">
+
+---
+
+
