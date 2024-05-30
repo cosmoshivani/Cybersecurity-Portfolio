@@ -53,8 +53,8 @@ Activity:
     
 <img width="1324" alt="Apply filters to SQL queries" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/0ea7cf4f-477a-4eec-9803-aff2111f7863">
 
---
+---
 
 <img width="664" alt="SQL Queries" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/a2dca0c9-fd21-4033-b04d-de3a03c6b2d0">
 
-    ---
+
