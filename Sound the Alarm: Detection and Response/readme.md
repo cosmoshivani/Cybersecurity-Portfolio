@@ -17,3 +17,7 @@ Internet Protocol (IP) helps data packets travel between devices on a network. P
 4. Suricata - Open Source IPS, and IDS developed by Open Information Security Foundation
    
    <img width="1288" alt="suricata" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/165f49a5-bea9-402a-b796-ed3660b9358a">
+
+5. Signature Analysis
+
+   <img width="893" alt="Suricata Signature Analysis" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/1a7e49d3-5fc3-4e1c-ba28-8d4bd4162c49">
