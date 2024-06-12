@@ -21,3 +21,7 @@ Internet Protocol (IP) helps data packets travel between devices on a network. P
 5. Signature Analysis
 
    <img width="893" alt="Suricata Signature Analysis" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/1a7e49d3-5fc3-4e1c-ba28-8d4bd4162c49">
+
+6. Suricata alerts, logs, and rules
+
+   <img width="1337" alt="Suricata alerts, logs, and rules" src="https://github.com/cosmoshivani/Cybersecurity-Portfolio/assets/47838688/4cc8462e-2ce0-4cf8-a3b6-95a66cdeb072">
