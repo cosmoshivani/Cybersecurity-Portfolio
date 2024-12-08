@@ -4,3 +4,17 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#cyber, #skills, #projects, #misc{
+    display: table;
+    padding: 15px;
+    background-color: green;
+    opacity: 0.8;
+    padding-top: 1px;
+    margin-top: 25px;
+    width: auto;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
